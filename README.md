@@ -1,4 +1,4 @@
-#MachineLearning
+# MachineLearning
 This repository aims at recording the author's learning process in ML. It consits of 4 subfolders, which stand for differtent learning stages from beginning stage to advanced stage. Each stages contains a README file to illustrate the requisite mathematical knowledge and some network models which are built in codes.
 | stage | mathematical knowledge | network models|
 |:--------:|:--------:|:--------:|
